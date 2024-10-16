@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Passionate Developer<br>I'm currently learning React.js<br>Fun Fact : I do have sense of humour.
+A Passionate Developer<br>Fun Fact : I do have sense of humour.
 
 
 ## 🌐 Socials:
