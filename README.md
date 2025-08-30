@@ -80,7 +80,7 @@
 
 <div align="center">
   
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra-140207&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra-140207&theme=tokyo-night)]
 
 </div>
 
