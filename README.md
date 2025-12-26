@@ -76,17 +76,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra-140207&theme=tokyo-night)]
-
-</div>
-
-
----
-
 ## 🚀 What I'm Working On
 
 - 🔨 Building full-stack web applications
